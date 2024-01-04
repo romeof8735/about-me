@@ -5,7 +5,7 @@
 
 ### _romeof7@nycstudents.net_
 
-I grew up in Brooklyn, NY since I was born. My family is originally from Dominican Republic before they moved here. 
+I grew up in **Brooklyn**, **NY** since I was born. My family is originally from Dominican Republic before they moved here.
 
 #### Schedule
 * Spanish
